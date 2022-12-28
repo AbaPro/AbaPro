@@ -1,7 +1,9 @@
+<h1 align="center">Hi 👋, I'm Abanob Raffet S. Makar </h1>
 
+<p align="center">
+<img alt="GIF" src="https://i.giphy.com/media/ZN3jVXH3jZaXKivytT/giphy.webp" height="380" />
 
-##  Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abanob.raffet) 
+</p>
 
 # Skills:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
